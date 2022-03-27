@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "517848795124",
+    "project_id": "mykloud-to-do-list",
+    "storage_bucket": "mykloud-to-do-list.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517848795124:android:78a30551c413e8e43cdba1",
+        "android_client_info": {
+          "package_name": "com.gmail.rami.abushaqra79.todolist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517848795124-97kk4j66ql32u14i7bokkqtrm5fj2vcm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtwW__rZDMFPznklIFpjLDIkq0gQzlzz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517848795124-97kk4j66ql32u14i7bokkqtrm5fj2vcm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

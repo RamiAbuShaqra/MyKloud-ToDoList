@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">mykloud list</string>
+
+    <string name="add_button">Add</string>
+
+    <string name="add_task_header">Add Task</string>
+    <string name="update_task_header">Update Task</string>
+    <string name="task_title">Title</string>
+    <string name="priority">Priority</string>
+    <string name="add_positive_button">Add</string>
+    <string name="update_positive_button">Update</string>
+
+    <string name="empty_list">No current tasks.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">List Settings</string>
+    <string name="settings_select_language_label">Select Language</string>
+    <string name="settings_select_language_key" translatable="false">select_language</string>
+    <string name="settings_select_language_default" translatable="false">english</string>
+
+    <string name="settings_english_label">English</string>
+    <string name="settings_english_value" translatable="false">english</string>
+
+    <string name="settings_arabic_label">العربية</string>
+    <string name="settings_arabic_value" translatable="false">arabic</string>
+</resources>
